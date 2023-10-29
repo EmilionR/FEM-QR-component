@@ -16,7 +16,7 @@
 .attribution { font-size: 11px; text-align: center; }
     .attribution a { color: hsl(228, 45%, 44%); }
 
-.body {
+body {
     display: flex;
     min-height: 100vh;
     background-color: var(--clr-gray);
@@ -32,7 +32,7 @@
       border-radius: 1rem;
     }
 
-.img {
+img {
     width: 300px;
       border-radius: 1rem;
 
